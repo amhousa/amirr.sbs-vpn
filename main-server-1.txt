@@ -1,0 +1,1 @@
+vless://7b507152-493c-4bf4-9935-759f9b0b6cd5@googleads.g.doubleclick.net.l2.fileexplorer.cloud:38765?security=tls&encryption=none&alpn=h2%252Chttp%252F1.1&headerType=http&fp=randomized&type=tcp&allowInsecure=1&sni=amd.com#5663246-%40TehranV2-%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF+2+%F0%9F%87%AB%F0%9F%87%AE
